@@ -10,7 +10,7 @@ const CONFIG = {
       name: 'Google',
       key: '*',
       url: 'https://google.com',
-      search: '/search/?q={}',
+      search: '/search/?q={}'
     },
     {
       category: 'General',
@@ -241,7 +241,7 @@ const CONFIG = {
       limit: 1
     },
     {
-      name: 'Google',
+      name: 'DuckDuckGo',
       limit: 4
     },
   ],
