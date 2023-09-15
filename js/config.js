@@ -53,7 +53,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'OneDrive',
-      key: 'o',
+      key: 'od',
       url: 'https://mailuc-my.sharepoint.com',
       color: '#1490DF',
       icon: '',
