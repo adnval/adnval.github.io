@@ -14,8 +14,8 @@ const CONFIG = {
     },
     {
       category: 'General',
-      name: 'Mail',
-      key: 'm',
+      name: 'GMail',
+      key: 'gm',
       url: 'https://gmail.com',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
@@ -29,6 +29,15 @@ const CONFIG = {
       url: 'https://mail.proton.me',
       color: '#a792ff',
       icon: 'mail',
+      quickLaunch: true,
+    },
+    {
+      category: 'General',
+      name: 'UCMail',
+      key: 'm',
+      url: 'https://mail.uc.edu',
+      color: '#E00122',
+      icon: '',
       quickLaunch: true,
     },
     {
