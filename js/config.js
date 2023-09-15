@@ -7,10 +7,10 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Duckduckgo',
+      name: 'Google',
       key: '*',
-      url: 'https://duckduckgo.com',
-      search: '/?q={}'
+      url: 'https://google.com',
+      search: '/search/?q={}'
     },
     {
       category: 'General',
@@ -216,7 +216,7 @@ const CONFIG = {
   /**
    * Get suggestions as you type.
    */
-  suggestions: true,
+  suggestions: false,
   suggestionsLimit: 4,
 
   /**
@@ -241,7 +241,7 @@ const CONFIG = {
       limit: 1
     },
     {
-      name: 'DuckDuckGo',
+      name: 'Google',
       limit: 4
     },
   ],
@@ -300,7 +300,7 @@ const CONFIG = {
   /**
    * Show a twenty-four-hour clock instead of a twelve-hour clock with AM/PM.
    */
-  twentyFourHourClock: true,
+  twentyFourHourClock: false,
 
   /**
    * File extension for icon images
