@@ -68,6 +68,8 @@ const CONFIG = {
       icon: 'discord',
       quickLaunch: false,
     },
+
+             
     {
       category: 'Programming',
       name: 'GitHub',
