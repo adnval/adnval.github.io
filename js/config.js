@@ -24,6 +24,15 @@ const CONFIG = {
     },
     {
       category: 'General',
+      name: 'Proton',
+      key: 'p',
+      url: 'https://mail.proton.me',
+      color: '#a792ff',
+      icon: 'mail',
+      quickLaunch: true,
+    },
+    {
+      category: 'General',
       name: 'Drive',
       key: 'd',
       url: 'https://drive.google.com',
@@ -59,8 +68,6 @@ const CONFIG = {
       icon: 'discord',
       quickLaunch: false,
     },
-
-
     {
       category: 'Programming',
       name: 'GitHub',
@@ -210,6 +217,24 @@ const CONFIG = {
       color: '#1a73e8',
       icon: 'translate',
       quickLaunch: false,
+    },
+    {
+      category: 'Other',
+      name: 'Canvas',
+      key: 'cn',
+      url: 'https://uc.instructure.com',
+      color: '#E00122',
+      icon: '',
+      quickLaunch: true,
+    },
+    {
+      category: 'Other',
+      name: 'Catalyst',
+      key: 'ct',
+      url: 'https://catalyst.uc.edu',
+      color: '#E00122',
+      icon: '',
+      quickLaunch: true,
     },
   ],
 
