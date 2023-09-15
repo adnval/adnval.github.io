@@ -48,7 +48,7 @@ const CONFIG = {
       search: '/drive/search?q={}',
       color: 'linear-gradient(135deg, #FFD04B, #1EA362, #4688F3)',
       icon: 'drive',
-      quickLaunch: false,
+      quickLaunch: true,
     },
     {
       category: 'General',
@@ -57,7 +57,7 @@ const CONFIG = {
       url: 'https://mailuc-my.sharepoint.com/',
       color: '#1490DF',
       icon: 'drive',
-      quickLaunch: false,
+      quickLaunch: true,
     },
 
              
