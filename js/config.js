@@ -50,6 +50,15 @@ const CONFIG = {
       icon: 'drive',
       quickLaunch: false,
     },
+    {
+      category: 'General',
+      name: 'OneDrive',
+      key: 'o',
+      url: 'https://mailuc-my.sharepoint.com/',
+      color: '#1490DF',
+      icon: 'drive',
+      quickLaunch: false,
+    },
 
              
     {
