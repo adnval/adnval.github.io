@@ -79,7 +79,7 @@ const CONFIG = {
       key: 'y',
       url: 'https://youtube.com',
       search: '/results?search_query={}',
-      color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
+      color: '#FF0000',
       icon: 'youtube',
       quickLaunch: false,
     },
