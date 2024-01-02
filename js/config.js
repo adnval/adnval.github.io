@@ -33,7 +33,7 @@ const CONFIG = {
     },
     {
       category: 'School',
-      name: 'UCMail',
+      name: 'UC Mail',
       key: 'm',
       url: 'https://mail.uc.edu',
       color: '#E00122',
@@ -110,7 +110,7 @@ const CONFIG = {
     },
     {
       category: 'School',
-      name: 'Canvas',
+      name: 'UC Canvas',
       key: 'cv',
       url: 'https://uc.instructure.com',
       color: '#E00122',
@@ -119,7 +119,7 @@ const CONFIG = {
     },
     {
       category: 'School',
-      name: 'Catalyst',
+      name: 'UC Catalyst',
       key: 'ct',
       url: 'https://catalyst.uc.edu',
       color: '#E00122',
