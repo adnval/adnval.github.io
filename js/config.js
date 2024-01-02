@@ -13,7 +13,7 @@ const CONFIG = {
       search: '/search?q={}'
     },
     {
-      category: 'General',
+      category: 'Essential',
       name: 'GMail',
       key: 'gm',
       url: 'https://gmail.com',
@@ -23,7 +23,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'Essential',
       name: 'Proton',
       key: 'p',
       url: 'https://mail.proton.me',
@@ -32,7 +32,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'School',
       name: 'UCMail',
       key: 'm',
       url: 'https://mail.uc.edu',
@@ -41,18 +41,16 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'School',
       name: 'OneDrive',
       key: 'o',
       url: 'https://mailuc-my.sharepoint.com',
       color: '#1490DF',
       icon: '',
       quickLaunch: true,
-    },
-
-             
+    },        
     {
-      category: 'Programming',
+      category: 'Misc',
       name: 'GitHub',
       key: 'g',
       url: 'https://github.com',
@@ -62,19 +60,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Programming',
-      name: 'StackOverflow',
-      key: 'st',
-      url: 'https://stackoverflow.com',
-      search: '/search?q={}',
-      color: 'linear-gradient(135deg, #53341C, #F48024)',
-      icon: 'stackoverflow',
-      quickLaunch: true,
-    },
-
-
-    {
-      category: 'Fun',
+      category: 'Recreation',
       name: 'YouTube',
       key: 'y',
       url: 'https://youtube.com',
@@ -84,7 +70,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Fun',
+      category: 'Recreation',
       name: 'Reddit',
       key: 'r',
       url: 'https://reddit.com',
@@ -94,7 +80,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Fun',
+      category: 'Recreation',
       name: 'Twitch',
       key: 'tw',
       url: 'https://www.twitch.tv',
@@ -103,10 +89,8 @@ const CONFIG = {
       icon: 'twitch',
       quickLaunch: false,
     },
-
-
     {
-      category: 'Other',
+      category: 'Misc',
       name: 'LinkedIn',
       key: 'l',
       url: 'https://linkedin.com',
@@ -116,7 +100,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Other',
+      category: 'Essential',
       name: 'Notion',
       key: 'ns',
       url: 'https://www.notion.so',
@@ -125,17 +109,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Other',
-      name: 'Translate',
-      key: 'tr',
-      url: 'https://translate.google.com/',
-      search: '/#view=home&op=translate&sl=auto&tl=en&text={}',
-      color: '#1a73e8',
-      icon: 'translate',
-      quickLaunch: false,
-    },
-    {
-      category: 'Other',
+      category: 'School',
       name: 'Canvas',
       key: 'cv',
       url: 'https://uc.instructure.com',
@@ -144,7 +118,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Other',
+      category: 'School',
       name: 'Catalyst',
       key: 'ct',
       url: 'https://catalyst.uc.edu',
