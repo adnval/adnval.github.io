@@ -102,7 +102,7 @@ const CONFIG = {
     {
       category: 'Essential',
       name: 'Notion',
-      key: 'ns',
+      key: 'n',
       url: 'https://www.notion.so',
       color: 'linear-gradient(135deg, #FFF, #3F3F3F)',
       icon: 'notion',
